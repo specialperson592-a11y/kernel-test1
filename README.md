@@ -1,2 +1,2 @@
 # kernel-test1
-sex
+기숙사 싫어요 집갈래요
